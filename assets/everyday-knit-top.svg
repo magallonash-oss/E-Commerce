@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Neutral-colored women's knitted top</title><desc id="desc">A warm beige knitted long-sleeve top on a soft neutral background.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eee8df"/><stop offset="1" stop-color="#d8cec1"/></linearGradient><pattern id="knit" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M4 0v8l9 9 9-9V0M4 26v-8l9-9 9 9v8" fill="none" stroke="#b8aa98" stroke-width="2" opacity=".55"/></pattern></defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <ellipse cx="450" cy="1080" rx="255" ry="55" fill="#bfb3a5" opacity=".25"/>
+  <path d="M344 220c25-36 65-55 106-55s81 19 106 55l78 75 126 88-79 138-92-51v488H311V470l-92 51-79-138 126-88z" fill="#c9bdad"/>
+  <path d="M344 220c25-36 65-55 106-55s81 19 106 55l78 75 126 88-79 138-92-51v488H311V470l-92 51-79-138 126-88z" fill="url(#knit)" opacity=".75"/>
+  <path d="M390 182c14 36 106 36 120 0" fill="none" stroke="#a99a89" stroke-width="12" stroke-linecap="round"/>
+  <path d="M311 958h278M311 470h278" stroke="#a99a89" stroke-width="10" opacity=".75"/>
+  <path d="M140 383l79 138M760 383l-79 138" stroke="#a99a89" stroke-width="10" opacity=".65"/>
+</svg>
